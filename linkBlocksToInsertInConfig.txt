@@ -1,0 +1,48 @@
+<link>
+show         = yes
+thickness    = 20
+file         = data/orange.txt
+color        = orange
+record_limit = 5000
+ribbon = yes
+</link>
+<link>
+show         = yes
+thickness    = 20
+file         = data/red.txt
+color        = red
+record_limit = 5000
+ribbon = yes
+</link>
+<link>
+show         = yes
+thickness    = 20
+file         = data/purple.txt
+color        = purple
+record_limit = 5000
+ribbon = yes
+</link>
+<link>
+show         = yes
+thickness    = 20
+file         = data/blue.txt
+color        = blue
+record_limit = 5000
+ribbon = yes
+</link>
+<link>
+show         = yes
+thickness    = 20
+file         = data/green.txt
+color        = green
+record_limit = 5000
+ribbon = yes
+</link>
+<link>
+show         = yes
+thickness    = 20
+file         = data/yellow.txt
+color        = yellow
+record_limit = 5000
+ribbon = yes
+</link>

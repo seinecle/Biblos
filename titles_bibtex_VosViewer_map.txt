@@ -1,0 +1,53 @@
+label,id
+managerial, 1
+competence, 2
+toekomst, 3
+aow, 4
+manager, 5
+micro institutional, 6
+incremental product, 7
+raamwerk, 8
+van strategie, 9
+service firm, 10
+nieuwe, 11
+innovatie, 12
+leadership, 13
+organizational, 14
+strategic renewal, 15
+financial service, 16
+competition, 17
+coevolution, 18
+formalization, 19
+interorganizational, 20
+evolution, 21
+nederlandse, 22
+een economische analyse van, 23
+invloed, 24
+absorptive, 25
+arbeidsongeschiktheid, 26
+strategische vernieuwing, 27
+het managen van, 28
+ambidexterity, 29
+exploitative, 30
+environment, 31
+environmental, 32
+horizontal knowledge, 33
+sociale zekerheid, 34
+consulting firm, 35
+management consulting, 36
+strategische vernieuwing van, 37
+europese, 38
+coping, 39
+business, 40
+competitive advantage, 41
+porter, 42
+ontwikkeling van, 43
+top management, 44
+governance, 45
+interne, 46
+ondernemingen, 47
+interorganisatorische, 48
+organizing, 49
+van commissarissen, 50
+management van, 51
+stakeholder, 52

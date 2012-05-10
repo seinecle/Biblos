@@ -1,0 +1,74 @@
+Report of the parameters used to extract co-occurrences in file "titles_bibtex.txt".
+
+TD-IDF measure used to correct the frequency of terms per docs: true.
+Number of documents in the corpus: 202.
+Inclusion of n-grams up to (and including) 4-grams.
+Binary or full counting of co-occurrences per document? Binary = true
+Size of the list of most frequent stopwords removed: 5000.
+Only for bigrams and above: size of the list of most frequent stopwords used to filter out: 1672.
+max number of words allowed: 250.
+min nb of occurrences in the entire corpus for a word to be processed: 2.
+min nb of characters for a word to be processed: 3.
+number of words found including n-grams: 58.
+number of nodes: 52.
+number of edges: 120.
+
+
+most frequent words: competence x 13
+most frequent words: organizational x 12
+most frequent words: sociale zekerheid x 10
+most frequent words: strategic renewal x 9
+most frequent words: governance x 9
+most frequent words: capability x 7
+most frequent words: competitive advantage x 7
+most frequent words: innovatie x 7
+most frequent words: interorganizational x 7
+most frequent words: managerial x 7
+most frequent words: strategische vernieuwing x 6
+most frequent words: financial service x 6
+most frequent words: nederlandse x 6
+most frequent words: absorptive x 5
+most frequent words: ambidexterity x 5
+most frequent words: business x 5
+most frequent words: organizing x 5
+most frequent words: consulting firm x 4
+most frequent words: environmental x 4
+most frequent words: van strategie x 4
+most frequent words: ondernemingen x 4
+most frequent words: interne x 4
+most frequent words: coping x 4
+most frequent words: arbeidsongeschiktheid x 4
+most frequent words: coevolution x 4
+most frequent words: top management x 4
+most frequent words: stakeholder x 4
+most frequent words: netherland x 4
+most frequent words: raamwerk x 3
+most frequent words: leadership x 3
+most frequent words: relaty x 3
+most frequent words: nieuwe x 3
+most frequent words: service firm x 3
+most frequent words: organisaty x 3
+most frequent words: environment x 3
+most frequent words: formalization x 3
+most frequent words: disability x 3
+most frequent words: een economische analyse van x 3
+most frequent words: invloed x 3
+most frequent words: manager x 3
+most frequent words: micro institutional x 3
+most frequent words: van commissarissen x 3
+most frequent words: management van x 3
+most frequent words: interorganisatorische x 3
+most frequent words: strategische vernieuwing van x 3
+most frequent words: competition x 3
+most frequent words: het managen van x 3
+most frequent words: ontwikkeling van x 3
+most frequent words: management consulting x 3
+most frequent words: toekomst x 3
+most frequent words: evolution x 3
+most frequent words: renewal trajectory x 3
+most frequent words: europese x 3
+most frequent words: aow x 3
+most frequent words: porter x 3
+most frequent words: exploitative x 3
+most frequent words: horizontal knowledge x 3
+most frequent words: incremental product x 3

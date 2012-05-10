@@ -1,0 +1,201 @@
+Report of the parameters used to extract co-occurrences in file "Bosch_text.txt".
+
+TD-IDF measure used to correct the frequency of terms per docs: true.
+Number of documents in the corpus: 53.
+Inclusion of n-grams up to (and including) 4-grams.
+Binary or full counting of co-occurrences per document? Binary = true
+Size of the list of most frequent stopwords removed: 5000.
+Only for bigrams and above: size of the list of most frequent stopwords used to filter out: 1745.
+max number of words allowed: 250.
+min nb of occurrences in the entire corpus for a word to be processed: 6.
+min nb of characters for a word to be processed: 4.
+number of words found including n-grams: 185.
+number of nodes: 185.
+number of edges: 17085.
+
+
+most frequent words: manager x 81
+most frequent words: environment x 79
+most frequent words: country x 68
+most frequent words: capability x 62
+most frequent words: employee x 54
+most frequent words: investment x 49
+most frequent words: strategic management x 47
+most frequent words: executive x 46
+most frequent words: customer x 46
+most frequent words: netherland x 45
+most frequent words: managerial x 44
+most frequent words: competitive advantage x 43
+most frequent words: director x 42
+most frequent words: corporation x 41
+most frequent words: risk x 40
+most frequent words: academy x 38
+most frequent words: behavior x 37
+most frequent words: competence x 37
+most frequent words: environmental x 36
+most frequent words: administrative x 34
+most frequent words: competition x 34
+most frequent words: business environment x 34
+most frequent words: technological x 33
+most frequent words: harvard business x 33
+most frequent words: asset x 32
+most frequent words: power x 32
+most frequent words: rotterdam school x 32
+most frequent words: organizational learning x 32
+most frequent words: organisation x 31
+most frequent words: routine x 31
+most frequent words: exploration x 30
+most frequent words: public x 30
+most frequent words: evolution x 30
+most frequent words: governance x 30
+most frequent words: institutional x 29
+most frequent words: adaptation x 29
+most frequent words: innovative x 29
+most frequent words: senior x 28
+most frequent words: enabling x 28
+most frequent words: cooperation x 27
+most frequent words: incentive x 27
+most frequent words: marketing x 27
+most frequent words: consumer x 27
+most frequent words: exploitation x 27
+most frequent words: financial service x 27
+most frequent words: merger x 27
+most frequent words: confronted x 27
+most frequent words: business school press x 26
+most frequent words: organizational form x 26
+most frequent words: stakeholder x 26
+most frequent words: evolutionary x 26
+most frequent words: absorptive x 25
+most frequent words: associate x 25
+most frequent words: incumbent x 24
+most frequent words: organiza tional x 24
+most frequent words: land x 24
+most frequent words: multinational x 24
+most frequent words: longitudinal x 24
+most frequent words: businesses x 24
+most frequent words: leadership x 23
+most frequent words: expertise x 23
+most frequent words: collective x 23
+most frequent words: threat x 23
+most frequent words: cultural x 23
+most frequent words: operational x 22
+most frequent words: supplier x 22
+most frequent words: strategic choice x 22
+most frequent words: shareholder x 22
+most frequent words: cognitive x 22
+most frequent words: hierarchy x 22
+most frequent words: answer x 22
+most frequent words: manufacturing x 21
+most frequent words: hard x 21
+most frequent words: client x 21
+most frequent words: lewin x 21
+most frequent words: helpful x 20
+most frequent words: enhancing x 20
+most frequent words: california management x 20
+most frequent words: psychology x 20
+most frequent words: behavioral x 20
+most frequent words: descriptive x 20
+most frequent words: survival x 20
+most frequent words: baden fuller x 20
+most frequent words: economics x 19
+most frequent words: product development x 19
+most frequent words: zahra x 19
+most frequent words: questionnaire x 19
+most frequent words: publishing x 19
+most frequent words: impor x 19
+most frequent words: psychological x 18
+most frequent words: competitor x 18
+most frequent words: management erasmus university rotterdam x 18
+most frequent words: international business x 18
+most frequent words: interface x 18
+most frequent words: eisenhardt x 18
+most frequent words: competency x 18
+most frequent words: banking x 18
+most frequent words: jansen x 18
+most frequent words: finance x 18
+most frequent words: organizing x 18
+most frequent words: barrier x 17
+most frequent words: profitability x 17
+most frequent words: knowledge creation x 17
+most frequent words: chairman x 17
+most frequent words: addison wesley x 17
+most frequent words: dependency x 17
+most frequent words: european management x 17
+most frequent words: competitiveness x 17
+most frequent words: personnel x 17
+most frequent words: organisational x 17
+most frequent words: negotiation x 17
+most frequent words: floyd x 17
+most frequent words: rational x 16
+most frequent words: existing product x 16
+most frequent words: sociology x 16
+most frequent words: levinthal x 16
+most frequent words: statistic x 16
+most frequent words: tenure x 16
+most frequent words: specialized x 16
+most frequent words: dialogue x 16
+most frequent words: tacit x 16
+most frequent words: erasmus strategic renewal x 15
+most frequent words: kogut x 15
+most frequent words: invest x 15
+most frequent words: hvolberda x 15
+most frequent words: productivity x 15
+most frequent words: autonomy x 15
+most frequent words: wijk x 15
+most frequent words: adapt x 15
+most frequent words: gaining x 15
+most frequent words: combinative x 15
+most frequent words: insurance x 15
+most frequent words: database x 15
+most frequent words: generic x 15
+most frequent words: pfeffer x 15
+most frequent words: rights reserved x 15
+most frequent words: weick x 15
+most frequent words: coevolution x 15
+most frequent words: sloan management x 15
+most frequent words: legitimacy x 15
+most frequent words: sociological x 15
+most frequent words: explorative x 14
+most frequent words: sition x 14
+most frequent words: daft x 14
+most frequent words: justin x 14
+most frequent words: inertia x 14
+most frequent words: teece x 14
+most frequent words: diffusion x 14
+most frequent words: configuration x 14
+most frequent words: boer x 14
+most frequent words: michael x 14
+most frequent words: mintzberg x 14
+most frequent words: dilemma x 14
+most frequent words: turbulence x 14
+most frequent words: anonymous x 14
+most frequent words: cooperative x 14
+most frequent words: clark x 14
+most frequent words: equity x 14
+most frequent words: internally x 14
+most frequent words: orga nizational x 14
+most frequent words: vation x 14
+most frequent words: horizontal x 14
+most frequent words: hambrick x 14
+most frequent words: strategic change x 14
+most frequent words: affecting x 14
+most frequent words: irwin x 14
+most frequent words: alignment x 14
+most frequent words: devel opment x 14
+most frequent words: joint venture x 14
+most frequent words: harper x 14
+most frequent words: awareness x 14
+most frequent words: jone x 14
+most frequent words: compete x 14
+most frequent words: stresse x 13
+most frequent words: french x 13
+most frequent words: formance x 13
+most frequent words: business school press boston x 13
+most frequent words: expanded x 13
+most frequent words: internet x 13
+most frequent words: strategic alliance x 13
+most frequent words: competi tive x 13
+most frequent words: micro x 13
+most frequent words: anderson x 13
+most frequent words: intro x 13
+most frequent words: formalization x 13

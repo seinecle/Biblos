@@ -1,0 +1,17 @@
+Zattoni__A. 0 2 Bosch__F.A.J._van_den 0 144
+Heijden__J.G.M._van_der 0 1 Wagenaar__R.W. 0 1
+George__G. 0 1 Bosch__F.A.J._van_den 0 144
+Massini__S. 0 1 Bosch__F.A.J._van_den 0 144
+Dijksterhuis__M.S. 0 2 Volberda__H.W. 0 107
+Heijden__J.G.M._van_der 0 1 Bosch__F.A.J._van_den 0 144
+Tomkin__N. 0 1 Melin__L. 0 3
+Zattoni__A. 0 2 Volberda__H.W. 0 107
+Sivula__P. 0 3 Elfring__T. 0 4
+Sivula__P. 0 3 Bosch__F.A.J._van_den 0 144
+Zattoni__A. 0 2 Huse__M. 0 2
+Tomkin__N. 0 1 Quelin__B.V. 0 1
+Heijden__J.G.M._van_der 0 1 Nunen__J.A.E.E._van 0 1
+Massini__S. 0 1 Numagami__T. 0 2
+Dijksterhuis__M.S. 0 2 Bosch__F.A.J._van_den 0 144
+George__G. 0 1 Volberda__H.W. 0 107
+Tomkin__N. 0 1 Kriger__M.P. 0 1

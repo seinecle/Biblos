@@ -1,0 +1,186 @@
+label,id
+leadership, 1
+governance, 2
+exploration, 3
+formalization, 4
+senior, 5
+incumbent, 6
+financial service, 7
+exploitation, 8
+jansen, 9
+director, 10
+manager, 11
+formance, 12
+executive, 13
+vation, 14
+publishing, 15
+absorptive, 16
+organizational form, 17
+sition, 18
+organiza tional, 19
+evolution, 20
+environment, 21
+associate, 22
+managerial, 23
+institutional, 24
+strategic management, 25
+internet, 26
+organizational learning, 27
+marketing, 28
+hard, 29
+adapt, 30
+enabling, 31
+compete, 32
+weick, 33
+investment, 34
+capability, 35
+invest, 36
+banking, 37
+impor, 38
+land, 39
+joint venture, 40
+lewin, 41
+cooperation, 42
+psychological, 43
+stakeholder, 44
+legitimacy, 45
+intro, 46
+psychology, 47
+innovative, 48
+collective, 49
+justin, 50
+dilemma, 51
+employee, 52
+academy, 53
+hambrick, 54
+technological, 55
+tacit, 56
+organisation, 57
+environmental, 58
+knowledge creation, 59
+equity, 60
+netherland, 61
+hvolberda, 62
+corporation, 63
+behavior, 64
+administrative, 65
+public, 66
+evolutionary, 67
+customer, 68
+power, 69
+organizing, 70
+rotterdam school, 71
+sociology, 72
+confronted, 73
+rational, 74
+shareholder, 75
+coevolution, 76
+business environment, 77
+supplier, 78
+merger, 79
+competition, 80
+chairman, 81
+country, 82
+turbulence, 83
+finance, 84
+risk, 85
+addison wesley, 86
+helpful, 87
+michael, 88
+dialogue, 89
+adaptation, 90
+tenure, 91
+baden fuller, 92
+behavioral, 93
+competitiveness, 94
+operational, 95
+orga nizational, 96
+harvard business, 97
+competitive advantage, 98
+international business, 99
+routine, 100
+longitudinal, 101
+competence, 102
+statistic, 103
+strategic alliance, 104
+barrier, 105
+questionnaire, 106
+descriptive, 107
+diffusion, 108
+cultural, 109
+product development, 110
+sociological, 111
+asset, 112
+organisational, 113
+california management, 114
+business school press, 115
+economics, 116
+cooperative, 117
+levinthal, 118
+insurance, 119
+autonomy, 120
+enhancing, 121
+irwin, 122
+mintzberg, 123
+negotiation, 124
+client, 125
+businesses, 126
+affecting, 127
+consumer, 128
+french, 129
+gaining, 130
+combinative, 131
+european management, 132
+explorative, 133
+daft, 134
+strategic change, 135
+interface, 136
+incentive, 137
+multinational, 138
+strategic choice, 139
+anderson, 140
+manufacturing, 141
+zahra, 142
+alignment, 143
+generic, 144
+jone, 145
+teece, 146
+database, 147
+productivity, 148
+expertise, 149
+erasmus strategic renewal, 150
+horizontal, 151
+personnel, 152
+answer, 153
+threat, 154
+specialized, 155
+harper, 156
+micro, 157
+inertia, 158
+profitability, 159
+rights reserved, 160
+competitor, 161
+cognitive, 162
+sloan management, 163
+pfeffer, 164
+dependency, 165
+eisenhardt, 166
+floyd, 167
+management erasmus university rotterdam, 168
+clark, 169
+boer, 170
+devel opment, 171
+existing product, 172
+hierarchy, 173
+anonymous, 174
+wijk, 175
+stresse, 176
+awareness, 177
+kogut, 178
+survival, 179
+internally, 180
+configuration, 181
+competi tive, 182
+business school press boston, 183
+expanded, 184
+competency, 185

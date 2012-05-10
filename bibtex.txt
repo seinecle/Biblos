@@ -1,0 +1,2277 @@
+@Article{RePub:31256,
+author =             {Vaccaro, I.G. and Jansen, J.J.P. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Management innovation and leadership: The moderating role of organizational size},
+journal =            {Journal of Management Studies},
+year =               {2012},
+volume =             {49},
+number =             {1},
+pages =              {28--51},
+month =              {January},
+url =                {http://dx.doi.org/10.1111/j.1467-6486.2010.00976.x}
+}
+
+@Article{RePub:25723,
+author =             {Kwee, Z. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {The influence of top management team's corporate governance orientation on strategic renewal trajectories: A longitudinal analysis of Royal Dutch Shell plc, 1907-2004},
+journal =            {Journal of Management Studies},
+year =               {2011},
+volume =             {48},
+number =             {5},
+pages =              {984--1014},
+month =              {July},
+url =                {http://dx.doi.org/10.1111/j.1467-6486.2010.00961.x}
+}
+
+@Article{RePub:26299,
+author =             {Roza- van Vuren, M.W. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Offshoring strategy: Motives, functions, locations, and governance modes of small, medium-sized and large firms},
+journal =            {International Business Review},
+year =               {2011},
+volume =             {20},
+number =             {3},
+pages =              {314--323},
+month =              {June},
+url =                {http://dx.doi.org/10.1016/j.ibusrev.2011.02.002}
+}
+
+@Article{RePub:31296,
+author =             {Reuer, J.J. and Bosch, F.A.J. van den and Klijn, E. and Volberda, H.W.},
+title =              {Bringing corporate governance to international joint ventures},
+journal =            {Global Strategy Journal},
+year =               {2011},
+volume =             {1},
+number =             {1-2},
+pages =              {54--66},
+month =              {May},
+url =                {http://dx.doi.org/10.1111/j.2042-5805.2011.00007.x}
+}
+
+@Article{RePub:30945,
+author =             {Baaij, M.G. and Mom, T.J.M. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Should Top Management  Relocate Across National Borders?},
+journal =            {M I T Sloan Management Review: MIT's journal of management research and ideas},
+year =               {2011},
+volume =             {53},
+number =             {2},
+pages =              {17--19},
+month =              {January},
+url =                {http://hdl.handle.net/1765/30945}
+}
+
+@Misc{RePub:6534,
+author =             {Bosch, F.A.J. van den and Wijk, R.A.J.L. van and Volberda, H.W.},
+title =              {Absorptive Capacity: Taking Stock of its Progress and Prospects},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2011},
+pages =              {273--304},
+month =              {January},
+url =                {http://hdl.handle.net/1765/6534}
+}
+
+@Misc{RePub:6537,
+author =             {Wijk, R.A.J.L. van and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Organizing Knowledge in Social, Alliance, and Organizational Networks},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2011},
+pages =              {477--504},
+month =              {January},
+url =                {http://hdl.handle.net/1765/6537}
+}
+
+@Article{RePub:20096,
+author =             {Alexiev, A.S. and Jansen, J.J.P. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Top Management Team Advice Seeking and Exploratory Innovation: The Moderating Role of TMT Heterogeneity},
+journal =            {Journal of Management Studies},
+year =               {2010},
+volume =             {47},
+number =             {7},
+pages =              {1343--1364},
+month =              {November},
+url =                {http://dx.doi.org/10.1111/j.1467-6486.2010.00919.x}
+}
+
+@Article{RePub:23502,
+author =             {Vaccaro, I.G. and Jansen, J.J.P. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Management Innovation and Leadership: The Moderating Role of Organizational Size},
+journal =            {Journal of Management Studies},
+year =               {2010},
+month =              {November},
+url =                {http://dx.doi.org/10.1111/j.1467-6486.2010.00976.x}
+}
+
+@TechReport{RePub:20455,
+author =             {Kwee, Z. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {The Influence of Top Management Team’s Corporate Governance Orientation on Strategic Renewal Trajectories},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2010},
+month =              {July},
+url =                {http://hdl.handle.net/1765/20455}
+}
+
+@Misc{RePub:26295,
+author =             {Dolgova, E. and Olffen, W. van and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {The Interaction between Personality, Social Network Position and Involvement in Innovation Process},
+institute =          {Rotterdam School of Management, Erasmus University},
+year =               {2010},
+month =              {February},
+url =                {http://hdl.handle.net/1765/26295}
+}
+
+@Article{RePub:16521,
+author =             {Vlaar, P.W.L. and Volberda, H.W. and Bosch, F.A.J. van den},
+title =              {De cognitieve functie van contracteren: naar een beter begrip van partners},
+journal =            {Maandblad voor accountancy en bedrijfseconomie : MAB},
+year =               {2009},
+volume =             {83},
+number =             {9},
+pages =              {286--292},
+month =              {September},
+url =                {http://hdl.handle.net/1765/16521}
+}
+
+@Article{RePub:31062,
+author =             {Jansen, J.J.P. and Tempelaar, M.P. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Structural differentiation and ambidexterity: The mediating role of integration mechanisms},
+journal =            {Organization Science},
+year =               {2009},
+volume =             {20},
+number =             {4},
+pages =              {797--811},
+month =              {July},
+url =                {http://dx.doi.org/10.1287/orsc.1080.0415}
+}
+
+@Article{RePub:31063,
+author =             {Mom, T.J.M. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Understanding variation in managers' ambidexterity: Investigating direct and interaction effects of formal structural and personal coordination mechanisms},
+journal =            {Organization Science},
+year =               {2009},
+volume =             {20},
+number =             {4},
+pages =              {812--828},
+month =              {July},
+url =                {http://dx.doi.org/10.1287/orsc.1090.0427}
+}
+
+@Article{RePub:15326,
+author =             {Burgers, J.H. and Jansen, J.J.P. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Structural differentiation and corporate venturing: The moderating role of formal and informal integration mechanisms},
+journal =            {Journal of Business Venturing: entrepreneurship, entrepreneurial finance, innovation and regional development},
+year =               {2009},
+volume =             {24},
+number =             {3},
+pages =              {206--220},
+month =              {May},
+url =                {http://dx.doi.org/10.1016/j.jbusvent.2009.01.006}
+}
+
+@TechReport{RePub:15144,
+author =             {Pugliese, A. and Bezemer, P.J. and Zattoni, A. and Huse, M. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Boards of Directors’ Contribution to Strategy: A Literature Review and Research Agenda},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2009},
+month =              {March},
+url =                {http://hdl.handle.net/1765/15144}
+}
+
+@Article{RePub:16520,
+author =             {Pugliese, A. and Bezemer, P.J. and Zattoni, A. and Huse, M. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Boards of Directors' Contribution to Strategy: A Literature Review and Research Agenda},
+journal =            {Corporate Governance (Oxford): an international review},
+year =               {2009},
+volume =             {17},
+number =             {3},
+pages =              {292--306},
+month =              {March},
+url =                {http://dx.doi.org/10.1111/j.1467-8683.2009.00740.x}
+}
+
+@TechReport{RePub:13836,
+author =             {Jansen, J.J.P. and Tempelaar, M.P. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Structural Differentiation and Ambidexterity: The Mediating Role of Integration Mechanisms},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2008},
+month =              {November},
+url =                {http://hdl.handle.net/1765/13836}
+}
+
+@Article{RePub:31064,
+author =             {Roza- van Vuren, M.W. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Offshoring motieven en resultaten van Nederlandse bedrijven},
+journal =            {ESB. Rotterdam},
+year =               {2008},
+volume =             {93},
+number =             {4545},
+pages =              {628--630},
+month =              {October},
+url =                {http://hdl.handle.net/1765/31064}
+}
+
+@Article{RePub:14656,
+author =             {Jansen, J.J.P. and George, G. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Senior Team Attributes and Organizational Ambidexterity: The Moderating Role of Transformational Leadership},
+journal =            {Journal of Management Studies},
+year =               {2008},
+volume =             {45},
+number =             {5},
+pages =              {982--1007},
+month =              {July},
+url =                {http://dx.doi.org/10.1111/j.1467-6486.2008.00775.x}
+}
+
+@Article{RePub:13562,
+author =             {Burgers, J.H. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Why New Business Development Fails? Coping with the differences of Technological versus Market Knowledge},
+journal =            {Long Range Planning},
+year =               {2008},
+volume =             {41},
+number =             {1},
+pages =              {55--73},
+month =              {February},
+url =                {http://dx.doi.org/10.1016/j.lrp.2007.10.003}
+}
+
+@Article{RePub:14652,
+author =             {Bezemer, P.J. and Maassen, G.F. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {De adviserende rol van commissarissen in het licht van de code Tabaksblat: Minder overlappende commissariaten meer interne verantwoordelijkheden},
+journal =            {Goed Bestuur},
+year =               {2008},
+volume =             {2},
+pages =              {45--51},
+month =              {January},
+url =                {http://hdl.handle.net/1765/14652}
+}
+
+@Misc{RePub:14765,
+author =             {Burgers, J.H. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {The Impact of Corporate Venturing on a Firm's Competence Modes},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2008},
+pages =              {117--140},
+month =              {January},
+url =                {http://dx.doi.org/10.1016/S0749-6826(07)11005-2}
+}
+
+@Misc{RePub:31693,
+author =             {Kwee, Z. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Coevolutionary Competence in the Realm of Corporate Longevity: How Long-lived Firms Strategically Renew Themselves},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2008},
+pages =              {281--313},
+month =              {January},
+url =                {http://dx.doi.org/10.1016/S1744-2117(08)04008-5}
+}
+
+@TechReport{RePub:10716,
+author =             {Kwee, Z. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Coevolutionary Competence in the Realm of Corporate Longevity: How Long-lived Firms Strategically Renew Themselves},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2007},
+month =              {November},
+url =                {http://hdl.handle.net/1765/10716}
+}
+
+@TechReport{RePub:10713,
+author =             {Vermeulen, P.A.M. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Complex Incremental Product Innovation in Established Service Firms: A Micro Institutional Perspective},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2007},
+month =              {November},
+url =                {http://hdl.handle.net/1765/10713}
+}
+
+@Article{RePub:14532,
+author =             {Bezemer, P.J. and Maassen, G.F. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Investigating the Development of the Internal and External Service Tasks of Non-executive Directors: the case of the Netherlands (1997–2005)},
+journal =            {Corporate Governance (Oxford): an international review},
+year =               {2007},
+volume =             {15},
+number =             {6},
+pages =              {1119--1129},
+month =              {November},
+url =                {http://dx.doi.org/10.1111/j.1467-8683.2007.00635.x}
+}
+
+@TechReport{RePub:10622,
+author =             {Burgers, J.H. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Why New Business Development Projects Fail: Coping with the Differences of Technological versus Market Knowledge},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2007},
+month =              {October},
+url =                {http://hdl.handle.net/1765/10622}
+}
+
+@Article{RePub:14536,
+author =             {Vermeulen, P.A.M. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Complex Incremental Product Innovation in Established Service Firms: A Micro Institutional Perspective},
+journal =            {Organization Studies},
+year =               {2007},
+volume =             {28},
+number =             {10},
+pages =              {1523--1546},
+month =              {October},
+url =                {http://dx.doi.org/10.1177/0170840607068082}
+}
+
+@TechReport{RePub:10536,
+author =             {Burgers, J.H. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {The Impact of Corporate Venturing on a Firm’s Competence Modes},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2007},
+month =              {September},
+url =                {http://hdl.handle.net/1765/10536}
+}
+
+@Article{RePub:14533,
+author =             {Mom, T.J.M. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Investigating Managers' Exploration and Exploitation Activities: The Influence of Top-Down, Bottom-Up, and Horizontal Knowledge Inflows},
+journal =            {Journal of Management Studies},
+year =               {2007},
+volume =             {44},
+number =             {6},
+pages =              {910--931},
+month =              {September},
+url =                {http://dx.doi.org/10.1111/j.1467-6486.2007.00697.x}
+}
+
+@Article{RePub:14769,
+author =             {Bezemer, P.J. and Maassen, G.F. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Veranderingen in de service-rol van commissarissen in Nederland},
+journal =            {Maandblad voor accountancy en bedrijfseconomie : MAB},
+year =               {2007},
+number =             {420},
+pages =              {420--428},
+month =              {September},
+url =                {http://hdl.handle.net/1765/14769}
+}
+
+@TechReport{RePub:10698,
+author =             {Bezemer, P.J. and Maassen, G.F. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Investigating the Development of the Internal and External Service Tasks of Non-executive Directors: The Case of the Netherlands (1997-2005)},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2007},
+month =              {August},
+url =                {http://hdl.handle.net/1765/10698}
+}
+
+@Article{RePub:14534,
+author =             {Spedale-Latimer, S. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Preservation and Dissolution of the Target Firm's Embedded Ties in Acquisitions},
+journal =            {Organization Studies},
+year =               {2007},
+volume =             {28},
+number =             {8},
+pages =              {1169--1196},
+month =              {August},
+url =                {http://dx.doi.org/10.1177/0170840607075672}
+}
+
+@Article{RePub:14535,
+author =             {Vlaar, P.W.L. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {On the Evolution of Trust, Distrust, and Formal Coordination and Control in Interorganizational Relationships},
+journal =            {Group \& organization management},
+year =               {2007},
+volume =             {32},
+number =             {4},
+pages =              {407--428},
+month =              {August},
+url =                {http://dx.doi.org/10.1177/1059601106294215}
+}
+
+@Article{RePub:10926,
+author =             {Vlaar, P.W.L. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Towards a Dialectic Perspective on Formalization in Interorganizational Relationships},
+journal =            {Organization Studies},
+year =               {2007},
+volume =             {28},
+number =             {4},
+pages =              {437--466},
+month =              {April},
+url =                {http://dx.doi.org/10.1177/0170840607078003}
+}
+
+@Book{RePub:10924,
+author =             {Volberda, H.W. and Bosch, F.A.J. van den and Jansen, J.J.P. and Szczygielska, A.O. and Roza- van Vuren, M.W.},
+title =              {Inspelen op globalisering},
+publisher =          {Stichting Maatschappij en Onderneming (SMO)},
+year =               {2007},
+month =              {January},
+url =                {http://hdl.handle.net/1765/10924}
+}
+
+@TechReport{RePub:10929,
+author =             {Volberda, H.W. and Bosch, F.A.J. van den and Jansen, J.J.P.},
+title =              {Slim managent \& innovatief organiseren},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2007},
+month =              {January},
+url =                {http://hdl.handle.net/1765/10929}
+}
+
+@Article{RePub:31043,
+author =             {Spedale-Latimer, S. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Behouden en verbreken van allianties.},
+journal =            {M \& O: tijdschrift voor organisatiekunde en sociaal beleid},
+year =               {2007},
+volume =             {61},
+number =             {3/4},
+pages =              {107--128},
+month =              {January},
+url =                {http://hdl.handle.net/1765/31043}
+}
+
+@Misc{RePub:31755,
+author =             {Spedale-Latimer, S. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Behouden en verbreken van allianties, bevindingen uit onderzoek},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2007},
+pages =              {107--123},
+month =              {January},
+url =                {http://hdl.handle.net/1765/31755}
+}
+
+@Misc{RePub:31697,
+author =             {Volberda, H.W. and Bosch, F.A.J. van den and Jansen, J.J.P.},
+title =              {Hoe rendeert sociale innovatie? De innovatie uitdaging in een mondiaal speelveld},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2007},
+pages =              {38--55},
+month =              {January},
+url =                {http://hdl.handle.net/1765/31697}
+}
+
+@TechReport{RePub:9724,
+author =             {Mom, T.J.M. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Investigating Managers' Exploration and Exploitation Activities: The Influence of Top-down, Bottom-up, and Horizontal Knowledge Inflows},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2006},
+month =              {December},
+url =                {http://hdl.handle.net/1765/9724}
+}
+
+@TechReport{RePub:9729,
+author =             {Spedale-Latimer, S. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Preservation and Dissolution of the Target Firm's Embedded Ties in Acquisitions},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2006},
+month =              {December},
+url =                {http://hdl.handle.net/1765/9729}
+}
+
+@Article{RePub:14537,
+author =             {Vlaar, P.W.L. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Coping with Problems of Understanding in Interorganizational Relationships: Using Formalization as a Means to Make Sense},
+journal =            {Organization Studies},
+year =               {2006},
+volume =             {27},
+number =             {11},
+pages =              {1617--1638},
+month =              {November},
+url =                {http://dx.doi.org/10.1177/0170840606068338}
+}
+
+@Article{RePub:14772,
+author =             {Jansen, J.J.P. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Exploratory Innovation, Exploitative Innovation, and Performance effects of organizational antecedents and environmental moderators},
+journal =            {Management Science},
+year =               {2006},
+volume =             {52},
+number =             {11},
+pages =              {1661--1674},
+month =              {November},
+url =                {http://dx.doi.org/10.1287/mnsc.1060.0576}
+}
+
+@TechReport{RePub:7892,
+author =             {Jansen, J.J.P. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Exploratory Innovation, Exploitative Innovation, and Performance: Effects of Organizational Antecedents and Environmental Moderators},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2006},
+month =              {August},
+url =                {http://hdl.handle.net/1765/7892}
+}
+
+@TechReport{RePub:7879,
+author =             {Vlaar, P.W.L. and Bosch, F.A.J. van den},
+title =              {Coping with Problems of Understanding in Interorganizational Relationships: Using Formalization as a Means to make Sense},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2006},
+month =              {July},
+url =                {http://hdl.handle.net/1765/7879}
+}
+
+@TechReport{RePub:7880,
+author =             {Vermeulen, P.A.M. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Complex Incremental Product Innovation in Established Service Firms: A Micro Institutional Perspective},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2006},
+month =              {July},
+url =                {http://hdl.handle.net/1765/7880}
+}
+
+@TechReport{RePub:7912,
+author =             {Vlaar, P.W.L. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {On the Evolution of Trust, Distrust, and Formal Coordination and Control in Interorganizational Relationships: Towards an Integrative Framework},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2006},
+month =              {July},
+url =                {http://hdl.handle.net/1765/7912}
+}
+
+@Article{RePub:14782,
+author =             {Vlaar, P.W.L. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Vertrouwen, formalisering en prestaties in interorganisatorische relaties: Naar een integraal raamwerk},
+journal =            {Maandblad voor accountancy en bedrijfseconomie : MAB},
+year =               {2006},
+volume =             {80},
+number =             {1/2},
+pages =              {17--25},
+month =              {February},
+url =                {http://hdl.handle.net/1765/14782}
+}
+
+@Article{RePub:10930,
+author =             {Bezemer, P.J. and Bosch, F.A.J. van den and Volberda, H.W. and Jansen, J.J.P.},
+title =              {Strategische vernieuwing in Nederlandse non-profit organisaties},
+journal =            {Maandblad voor accountancy en bedrijfseconomie : MAB},
+year =               {2006},
+month =              {January},
+url =                {http://hdl.handle.net/1765/10930}
+}
+
+@Article{RePub:31044,
+author =             {Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Kennisintegratie als voorwaarde voor zelforganisatie: Strategische vernieuwing van Shell Research and Technology Centre Amsterdam},
+journal =            {M \& O: tijdschrift voor organisatiekunde en sociaal beleid},
+year =               {2006},
+volume =             {60},
+number =             {2},
+pages =              {40--54},
+month =              {January},
+url =                {http://hdl.handle.net/1765/31044}
+}
+
+@Misc{RePub:14774,
+author =             {Vlaar, P.W.L. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Interorganizational Governance Trajectories: Toward a Better Understanding of the Connections between Partner Selection, Negotiation and Contracting},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2006},
+pages =              {98--110},
+month =              {January},
+url =                {http://hdl.handle.net/1765/14774}
+}
+
+@TechReport{RePub:7171,
+author =             {Baaij, M.G. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {How Management Consulting Firms Influence Building and Leveraging of Clients’ Competences: Towards a conceptual framework},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2005},
+month =              {December},
+url =                {http://hdl.handle.net/1765/7171}
+}
+
+@TechReport{RePub:7176,
+author =             {Mom, T.J.M. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {The Influence of Managerial and Organizational Determinants of Horizontal Knowledge Exchange on Competence Building and Competence Leveraging},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2005},
+month =              {December},
+url =                {http://hdl.handle.net/1765/7176}
+}
+
+@Article{RePub:10937,
+author =             {Maassen, G.F. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Het gebruik van toezichthoudende commissies, binnen raden van commissarissen in beursgenoteerde ondernemingen},
+journal =            {Maandblad voor accountancy en bedrijfseconomie : MAB},
+year =               {2005},
+volume =             {79},
+number =             {12  (December)},
+pages =              {647--657},
+month =              {December},
+url =                {http://hdl.handle.net/1765/10937}
+}
+
+@Article{RePub:14539,
+author =             {Jansen, J.J.P. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Managing Potential and Realized Absorptive Capacity: How do Organizational Antecedents Matter?},
+journal =            {Academy of Management Journal},
+year =               {2005},
+pages =              {999--1015},
+month =              {December},
+url =                {http://dx.doi.org/10.5465/AMJ.2005.19573106}
+}
+
+@Article{RePub:10932,
+author =             {Jansen, J.J.P. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Exploratory innovation, exploitative innovation and ambidexterity},
+journal =            {Schmalenbach business review : zfbf},
+year =               {2005},
+volume =             {57},
+pages =              {351--363},
+month =              {October},
+url =                {http://hdl.handle.net/1765/10932}
+}
+
+@Article{RePub:10938,
+author =             {Baaij, M.G. and Berghe, D. van den and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Rotterdam or anywhere, relocating corporate HQ},
+journal =            {Business Strategy Review: insight for global business},
+year =               {2005},
+volume =             {16},
+number =             {2},
+pages =              {45--48},
+month =              {June},
+url =                {http://dx.doi.org/10.1111/j.0955-6419.2005.00362.x}
+}
+
+@TechReport{RePub:6550,
+author =             {Jansen, J.J.P. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Managing Potential and Realized Absorptive Capacity: How do Organizational Antecedents matter?},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2005},
+month =              {May},
+url =                {http://hdl.handle.net/1765/6550}
+}
+
+@TechReport{RePub:6552,
+author =             {Wijk, R.A.J.L. van and Bosch, F.A.J. van den and Volberda, H.W. and Heinhuis, S.M.},
+title =              {Reciprocity of Knowledge Flows in Internal Network Forms of Organizing},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2005},
+month =              {May},
+url =                {http://hdl.handle.net/1765/6552}
+}
+
+@TechReport{RePub:6553,
+author =             {Bosch, F.A.J. van den and Baaij, M.G. and Volberda, H.W.},
+title =              {How Knowledge Accumulation changed the Competitive Advantage of Strategy Consulting Firms},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2005},
+month =              {May},
+url =                {http://hdl.handle.net/1765/6553}
+}
+
+@Article{RePub:10933,
+author =             {Vlaar, P.W.L. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Interorganisatorische beheersstrategieën},
+journal =            {Maandblad voor accountancy en bedrijfseconomie : MAB},
+year =               {2005},
+volume =             {79},
+number =             {9},
+pages =              {400--408},
+month =              {January},
+url =                {http://hdl.handle.net/1765/10933}
+}
+
+@Article{RePub:10939,
+author =             {Volberda, H.W. and Bosch, F.A.J. van den},
+title =              {Why management matters most},
+journal =            {European Business Forum},
+year =               {2005},
+number =             {22},
+pages =              {36--40},
+month =              {January},
+url =                {http://hdl.handle.net/1765/10939}
+}
+
+@Article{RePub:31045,
+author =             {Volberda, H.W. and Bosch, F.A.J. van den},
+title =              {Ruim baan voor de Nederlandse Innovatie Agenda: Naar nieuwe managementvaardigheden en innovatieve organisatieprincipes},
+journal =            {M \& O: tijdschrift voor organisatiekunde en sociaal beleid},
+year =               {2005},
+volume =             {59},
+number =             {1},
+pages =              {41--63},
+month =              {January},
+url =                {http://hdl.handle.net/1765/31045}
+}
+
+@Article{RePub:31065,
+author =             {Bosch, F.A.J. van den and Baaij, M.G. and Volberda, H.W.},
+title =              {How knowledge accumulation has changed strategy consulting: strategic options for established strategy consulting firms},
+journal =            {Strategic Change},
+year =               {2005},
+volume =             {14},
+number =             {1},
+pages =              {25--34},
+month =              {January},
+url =                {http://dx.doi.org/10.1002/jsc.705}
+}
+
+@Misc{RePub:31704,
+author =             {Baaij, M.G. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {The Impact of Management Consulting Firms on Transfer and Building of Their Clients' Competence},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2005},
+pages =              {27--44},
+month =              {January},
+url =                {http://dx.doi.org/10.1016/S0749-6826(04)08002-3}
+}
+
+@Misc{RePub:31707,
+author =             {Vlaar, P.W.L. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {On the Relation between Information Technology and Internorganizational Competitive Advantage: A Competence Perspective},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2005},
+pages =              {45--68},
+month =              {January},
+url =                {http://dx.doi.org/10.1016/S0749-6826(04)08003-5}
+}
+
+@Misc{RePub:10934,
+author =             {Flier, B. and Bosch, F.A.J. van den and Volberda, H.W. and Baden-Fuller, C.W.F.},
+title =              {Strategic renewal in the Dutch financial services sector: Renewal Trajectories from a Competence-based Perspective.},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2005},
+pages =              {237--274},
+month =              {January},
+url =                {http://dx.doi.org/10.1016/S0749-6826(05)09012-8}
+}
+
+@Article{RePub:10959,
+author =             {Heugens, P.P.M.A.R. and Riel, C.B.M. van and Bosch, F.A.J. van den},
+title =              {Reputation management capabilities as decision rules},
+journal =            {Journal of Management Studies},
+year =               {2004},
+pages =              {1349--1377},
+month =              {December},
+url =                {http://dx.doi.org/h10.1016/j.emj.2004.04.016}
+}
+
+@TechReport{RePub:1780,
+author =             {Oshri, I. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Organizing The Innovation System For Reusability: The Case Of Made-To-Order Markets},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2004},
+month =              {October},
+url =                {http://hdl.handle.net/1765/1780}
+}
+
+@Article{RePub:10957,
+author =             {Stienstra, M. and Baaij, M.G. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Strategic renewal of Europe's largest telecom operations (1992 -2001)},
+journal =            {European Management Journal},
+year =               {2004},
+volume =             {22},
+number =             {5},
+pages =              {600--604},
+month =              {October},
+url =                {http://dx.doi.org/10.1016/j.emj.2004.09.017}
+}
+
+@TechReport{RePub:1350,
+author =             {Vlaar, P.W.L. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Required IT-Related Capabilities For The Utilization of New Opportunities in Creating Interorganizational Competitive Advantage},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2004},
+month =              {July},
+url =                {http://hdl.handle.net/1765/1350}
+}
+
+@TechReport{RePub:1347,
+author =             {Flier, B. and Bosch, F.A.J. van den and Volberda, H.W. and Baden-Fuller, C.W.F.},
+title =              {Investigating Strategic Renewal of Five Large Dutch Financial Services Firms},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2004},
+month =              {June},
+url =                {http://hdl.handle.net/1765/1347}
+}
+
+@Article{RePub:10962,
+author =             {Stienstra, M. and Baaij, M.G. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Strategic renewal in the European telecommunications Industry},
+journal =            {European Management Journal},
+year =               {2004},
+volume =             {22},
+number =             {3},
+pages =              {273--280},
+month =              {June},
+url =                {http://dx.doi.org/10.1016/j.emj.2004.04.016}
+}
+
+@Article{RePub:31067,
+author =             {Burgers, J.H. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Corporate venturing en de concurrentieomgeving: Bestendiging of verstoring van de marktdynamiek?},
+journal =            {Maandblad voor accountancy en bedrijfseconomie : MAB},
+year =               {2004},
+volume =             {78},
+number =             {5},
+pages =              {240--247},
+month =              {May},
+url =                {http://hdl.handle.net/1765/31067}
+}
+
+@Article{RePub:10961,
+author =             {Baaij, M.G. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {The international relocation of corporate centres},
+journal =            {European Management Journal},
+year =               {2004},
+volume =             {22},
+number =             {2},
+pages =              {141--149},
+month =              {April},
+url =                {http://dx.doi.org/10.1016/j.emj.2004.01.015}
+}
+
+@Article{RePub:31066,
+author =             {Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Nieuwe topprioriteiten voor de Nederlandse Innovatie Agenda},
+journal =            {Management Executive: grensverleggend voor de ambitieuze manager},
+year =               {2004},
+volume =             {3},
+number =             {5},
+pages =              {54--57},
+month =              {March},
+url =                {http://hdl.handle.net/1765/31066}
+}
+
+@TechReport{RePub:1131,
+author =             {Volberda, H.W. and Bosch, F.A.J. van den},
+title =              {Rethinking the Dutch Innovation Agenda: Management and Organization Matter Most},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2004},
+month =              {January},
+url =                {http://hdl.handle.net/1765/1131}
+}
+
+@Article{RePub:10955,
+author =             {Leeuw, B.J. de and Wolf, P. de and Bosch, F.A.J. van den},
+title =              {The changing role of technology suppliers in the pharmaceutical industry},
+journal =            {International Journal of Technology Management},
+year =               {2004},
+volume =             {25},
+number =             {3-4},
+pages =              {350--362},
+month =              {January},
+url =                {http://dx.doi.org/10.1504/IJTM.2003.003105}
+}
+
+@Article{RePub:10958,
+author =             {Boer, A. den and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Externe strategische vernieuwing van Europese financiële dienstverleners},
+journal =            {Maandblad voor accountancy en bedrijfseconomie : MAB},
+year =               {2004},
+volume =             {78},
+number =             {10},
+pages =              {462--468},
+month =              {January},
+url =                {http://hdl.handle.net/1765/10958}
+}
+
+@Article{RePub:6455,
+author =             {Maassen, G.F. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {The importance of disclosure in corporate governance self-regulation across Europe: A review of the Winter Report and the EU Action Plan},
+journal =            {International Journal of Disclosure and Governance},
+year =               {2004},
+volume =             {1},
+number =             {2},
+pages =              {146--159},
+month =              {January},
+url =                {http://hdl.handle.net/1765/6455}
+}
+
+@Article{RePub:6548,
+author =             {Stienstra, M. and Naeye, W.J. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Het veranderde energie-landschap in Europa},
+journal =            {Management Executive: grensverleggend voor de ambitieuze manager},
+year =               {2004},
+pages =              {34--38},
+month =              {January},
+url =                {http://hdl.handle.net/1765/6548}
+}
+
+@Article{RePub:6549,
+author =             {Baaij, M.G. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Verplaatsing van bedrijfsactiviteiten naar het buitenland. Hoe honkvast blijven de hoofdkantoren?},
+journal =            {Management Executive: grensverleggend voor de ambitieuze manager},
+year =               {2004},
+volume =             {6},
+pages =              {23--26},
+month =              {January},
+url =                {http://hdl.handle.net/1765/6549}
+}
+
+@Article{RePub:10963,
+author =             {Bosch, F.A.J. van den},
+title =              {Management consulting},
+journal =            {Administrative Science Quarterly},
+year =               {2003},
+month =              {December},
+url =                {http://hdl.handle.net/1765/10963}
+}
+
+@Article{RePub:6458,
+author =             {Flier, B. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Coevolution in the strategic renewal behaviour of British, Dutch and French financial incumbents: interaction of environmental selection, institutional effects and managerial intentionality},
+journal =            {Journal of Management Studies},
+year =               {2003},
+volume =             {40},
+number =             {8},
+pages =              {2163--2187},
+month =              {December},
+url =                {http://dx.doi.org/10.1046/j.1467-6486.2003.00416.x}
+}
+
+@TechReport{RePub:334,
+author =             {Bosch, F.A.J. van den and Wijk, R.A.J.L. van and Volberda, H.W.},
+title =              {Absorptive Capacity:  Antecedents, Models and Outcomes},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2003},
+month =              {May},
+url =                {http://hdl.handle.net/1765/334}
+}
+
+@Article{RePub:10967,
+author =             {Baden-Fuller, C.W.F. and Bosch, F.A.J. van den and Lubatkin, M. and Melin, L. and Johnson, G. and Very, Ph. and Atamer, T.},
+title =              {Roland Colari},
+journal =            {Long Range Planning},
+year =               {2003},
+volume =             {36},
+number =             {3},
+pages =              {305--310},
+month =              {January},
+url =                {http://dx.doi.org/10.1016/S0024-6301(03)00036-0}
+}
+
+@Article{RePub:6477,
+author =             {Volberda, H.W. and Bosch, F.A.J. van den},
+title =              {Het managen van strategische vernieuwing: lessen uit de financiële dienstensector},
+journal =            {Management select},
+year =               {2003},
+volume =             {19},
+number =             {1},
+pages =              {34--43},
+month =              {January},
+url =                {http://hdl.handle.net/1765/6477}
+}
+
+@Article{RePub:6481,
+author =             {Baaij, M.G. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {De rollen van de organisatieadviseur en hun invloed op de concurrentiepositie van de cliënt},
+journal =            {Maandblad voor accountancy en bedrijfseconomie : MAB},
+year =               {2003},
+volume =             {77},
+number =             {6},
+pages =              {295--301},
+month =              {January},
+url =                {http://hdl.handle.net/1765/6481}
+}
+
+@Article{RePub:6482,
+author =             {Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Nederland degradeert: door gebrek aan kennis en innovatie uit de wereld top-10},
+journal =            {Maandblad voor accountancy en bedrijfseconomie : MAB},
+year =               {2003},
+volume =             {77},
+number =             {4},
+pages =              {173--177},
+month =              {January},
+url =                {http://hdl.handle.net/1765/6482}
+}
+
+@Article{RePub:6484,
+author =             {Jansen, J.J.P. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Strategische vernieuwing van ondernemingen: het managen van innovatie en efficiency},
+journal =            {Management Executive: grensverleggend voor de ambitieuze manager},
+year =               {2003},
+volume =             {57},
+number =             {6},
+pages =              {25--36},
+month =              {January},
+url =                {http://hdl.handle.net/1765/6484}
+}
+
+@Misc{RePub:6538,
+author =             {Vlaar, P.W.L. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {De relatie tussen informatietechnologie en interorganisatorisch concurrentievoordeel},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2003},
+month =              {January},
+url =                {http://hdl.handle.net/1765/6538}
+}
+
+@Misc{RePub:6535,
+author =             {Dijksterhuis, M.S. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {A Cognitive Perspective on Strategizing/Organizing, Ch. 6},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2003},
+pages =              {95--122},
+month =              {January},
+url =                {http://hdl.handle.net/1765/6535}
+}
+
+@Book{RePub:10966,
+author =             {Pettigrew, A.M. and Whittington, R. and Melin, L. and Sanchez-Runde, C. and Bosch, F.A.J. van den and Ruigrok, W. and Numagami, T.},
+title =              {Innovative Forms of Organizing},
+publisher =          {SAGE Publications},
+year =               {2003},
+month =              {January},
+url =                {http://hdl.handle.net/1765/10966}
+}
+
+@Article{RePub:10974,
+author =             {Heugens, P.P.M.A.R. and Bosch, F.A.J. van den and Riel, C.B.M. van},
+title =              {Stakeholder integration},
+journal =            {Business \& Society: a journal of interdisciplinary exploration},
+year =               {2002},
+volume =             {41},
+number =             {1},
+pages =              {36--60},
+month =              {March},
+url =                {http://dx.doi.org/10.1177/000765030204100104}
+}
+
+@Article{RePub:6460,
+author =             {Volberda, H.W. and Bosch, F.A.J. van den},
+title =              {Mastering strategic renewal: lessons from the financial services sector},
+journal =            {European Business Forum},
+year =               {2002},
+volume =             {11},
+pages =              {52--57},
+month =              {January},
+url =                {http://hdl.handle.net/1765/6460}
+}
+
+@Article{RePub:6488,
+author =             {Flier, B. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Het veranderende landschap in de Europese financiële sector: vooruitblik op de financiële sector in de 21ste eeuw},
+journal =            {Maandblad voor accountancy en bedrijfseconomie : MAB},
+year =               {2002},
+volume =             {76},
+number =             {3},
+pages =              {103--112},
+month =              {January},
+url =                {http://hdl.handle.net/1765/6488}
+}
+
+@Article{RePub:6489,
+author =             {Mom, T.J.M. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Exploitatie en exploratie van kennis: het managen van de determinanten van horizontale kennisuitwisseling},
+journal =            {Management Executive: grensverleggend voor de ambitieuze manager},
+year =               {2002},
+volume =             {56},
+number =             {5},
+pages =              {23--43},
+month =              {January},
+url =                {http://hdl.handle.net/1765/6489}
+}
+
+@Misc{RePub:31757,
+author =             {Wijk, R.A.J.L. van and Lewin, A.Y. and Massini, S. and Numagami, T. and Bosch, F.A.J. van den},
+title =              {Knowledge integration strategies: a comparative study of Europe, Japan and the US},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2002},
+pages =              {22--25},
+month =              {January},
+url =                {http://hdl.handle.net/1765/31757}
+}
+
+@Misc{RePub:10973,
+author =             {Maassen, G.F. and Bosch, F.A.J. van den},
+title =              {Corporate governance in internationaal perspectief},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2002},
+pages =              {21--60},
+month =              {January},
+url =                {http://hdl.handle.net/1765/10973}
+}
+
+@TechReport{RePub:126,
+author =             {Huygens, M.W. and Baden-Fuller, C.W.F. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Coevolution of Firm Capabilities and Industry Competition},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2001},
+month =              {November},
+url =                {http://hdl.handle.net/1765/126}
+}
+
+@Article{RePub:6469,
+author =             {Huygens, M.W. and Baden-Fuller, C.W.F. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Coevolution of Firm Capabilities and Industry Competition: Investigating the Music Industry 1877-1997},
+journal =            {Organization Studies},
+year =               {2001},
+volume =             {22},
+number =             {6},
+pages =              {971--1011},
+month =              {November},
+url =                {http://dx.doi.org/10.1177/0170840601226004}
+}
+
+@Article{RePub:6463,
+author =             {Volberda, H.W. and Baden-Fuller, C.W.F. and Bosch, F.A.J. van den},
+title =              {Mastering Strategic Renewal: Mobilizing Renewal Journeys in Multi-unit Firms},
+journal =            {Long Range Planning},
+year =               {2001},
+volume =             {34},
+number =             {2},
+pages =              {159--178},
+month =              {April},
+url =                {http://dx.doi.org/10.1016/S0024-6301(01)00032-2}
+}
+
+@Article{RePub:6464,
+author =             {Volberda, H.W. and Bosch, F.A.J. van den and Flier, B. and Gedajlovic, E.R.},
+title =              {Following the Herd or Not? Patterns of Renewal in the Netherlands and the UK},
+journal =            {Long Range Planning},
+year =               {2001},
+volume =             {34},
+number =             {2},
+pages =              {209--229},
+month =              {April},
+url =                {http://dx.doi.org/10.1016/S0024-6301(01)00031-0}
+}
+
+@Article{RePub:6466,
+author =             {Flier, B. and Bosch, F.A.J. van den and Volberda, H.W. and Carnevale, C.A. and Tomkin, N. and Melin, L. and Quelin, B.V. and Kriger, M.P.},
+title =              {The Changing Landscape of the European Financial Services Sector},
+journal =            {Long Range Planning},
+year =               {2001},
+volume =             {34},
+number =             {2},
+pages =              {179--207},
+month =              {April},
+url =                {http://dx.doi.org/10.1016/S0024-6301(01)00029-2}
+}
+
+@Article{RePub:6468,
+author =             {Hensmans, M. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Clicks versus Bricks in the Emerging Online Financial Services Industry},
+journal =            {Long Range Planning},
+year =               {2001},
+volume =             {34},
+number =             {2},
+pages =              {231--247},
+month =              {April},
+url =                {http://dx.doi.org/10.1016/S0024-6301(01)00030-9}
+}
+
+@Article{RePub:10980,
+author =             {Bosch, F.A.J. van den and Sivula, P. and Elfring, T.},
+title =              {Strategische kennisabsorptie in Customer Relationship Management},
+journal =            {M \& O: tijdschrift voor organisatiekunde en sociaal beleid},
+year =               {2001},
+volume =             {55},
+number =             {1},
+pages =              {7--23},
+month =              {January},
+url =                {http://hdl.handle.net/1765/10980}
+}
+
+@Article{RePub:10981,
+author =             {Hensmans, M. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Een strategische analyse van de ontwikkeling van het on-line financiële dienstverleningscomplex},
+journal =            {M \& O: tijdschrift voor organisatiekunde en sociaal beleid},
+year =               {2001},
+volume =             {55},
+number =             {6},
+pages =              {38--53},
+month =              {January},
+url =                {http://hdl.handle.net/1765/10981}
+}
+
+@Article{RePub:10982,
+author =             {Heugens, P.P.M.A.R. and Bosch, F.A.J. van den and Riel, C.B.M. van},
+title =              {Stakeholder integratie: Werken aan wederzijds versterkende relaties},
+journal =            {M \& O: tijdschrift voor organisatiekunde en sociaal beleid},
+year =               {2001},
+volume =             {55},
+number =             {4},
+pages =              {5--26},
+month =              {January},
+url =                {http://hdl.handle.net/1765/10982}
+}
+
+@Article{RePub:10983,
+author =             {Bosch, F.A.J. van den and Wijk, R.A.J.L. van},
+title =              {De ontwikkeling van interne netwerken als een duurzame kenniscreatie strategie},
+journal =            {Bedrijfskunde},
+year =               {2001},
+volume =             {73},
+number =             {1},
+pages =              {104--111},
+month =              {January},
+url =                {http://hdl.handle.net/1765/10983}
+}
+
+@InProceedings{RePub:6467,
+author =             {Hensmans, M. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Acting Cooperatively While Being Revolutionary: An Insider-Outsider Cybermediary Theory},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2001},
+pages =              {1--10},
+month =              {January},
+url =                {http://dx.doi.org/10.1109/HICSS.2001.10024}
+}
+
+@Article{RePub:6493,
+author =             {Boer, M. de and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Management van kennisintegratie in de context van industrieel complex in ontwikkeling},
+journal =            {Maandblad voor accountancy en bedrijfseconomie : MAB},
+year =               {2001},
+volume =             {75},
+number =             {1/2},
+pages =              {41--53},
+month =              {January},
+url =                {http://hdl.handle.net/1765/6493}
+}
+
+@Misc{RePub:10975,
+author =             {Bosch, F.A.J. van den},
+title =              {What makes time strategic?},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2001},
+pages =              {69--81},
+month =              {January},
+url =                {http://hdl.handle.net/1765/10975}
+}
+
+@Misc{RePub:10976,
+author =             {Sivula, P. and Bosch, F.A.J. van den and Elfring, T.},
+title =              {Competence-Based Competition: Gaining Knowledge from Client Relationships},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2001},
+pages =              {77--94},
+month =              {January},
+url =                {http://hdl.handle.net/1765/10976}
+}
+
+@Misc{RePub:10977,
+author =             {Bosch, F.A.J. van den},
+title =              {Strategisch management en corporate communication},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2001},
+pages =              {249--280},
+month =              {January},
+url =                {http://hdl.handle.net/1765/10977}
+}
+
+@Misc{RePub:31709,
+author =             {Bosch, F.A.J. van den and Wijk, R.A.J.L. van},
+title =              {Creation of Managerial Capabilities through Managerial Knowledge Integration: A Competence-based Perspective},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2001},
+pages =              {159--176},
+month =              {January},
+url =                {http://hdl.handle.net/1765/31709}
+}
+
+@TechReport{RePub:48,
+author =             {Hensmans, M. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {New Entrants versus Incumbents in the Emerging On-Line Financial Services Complex},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2000},
+month =              {October},
+url =                {http://hdl.handle.net/1765/48}
+}
+
+@TechReport{RePub:33,
+author =             {Wijk, R.A.J.L. van and Bosch, F.A.J. van den},
+title =              {Transition Processes Towards Internal Networks},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2000},
+month =              {June},
+url =                {http://hdl.handle.net/1765/33}
+}
+
+@TechReport{RePub:32,
+author =             {Wijk, R.A.J.L. van and Bosch, F.A.J. van den},
+title =              {Creating the N-Form Corporation as a Managerial Competence},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2000},
+month =              {June},
+url =                {http://hdl.handle.net/1765/32}
+}
+
+@TechReport{RePub:28,
+author =             {Bosch, F.A.J. van den and Wijk, R.A.J.L. van},
+title =              {Creation of Managerial Capabilities Through Managerial Knowledge Integration},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2000},
+month =              {June},
+url =                {http://hdl.handle.net/1765/28}
+}
+
+@Article{RePub:31041,
+author =             {Bosch, F.A.J. van den and Volberda, H.W. and Boer, M. de},
+title =              {Kennisabsorptie van ondernemingen: Hoe co-evolueren ondernemingen in een dynamische kennisomgeving? },
+journal =            {M \& O: tijdschrift voor organisatiekunde en sociaal beleid},
+year =               {2000},
+volume =             {54},
+number =             {2},
+pages =              {27--47},
+month =              {April},
+url =                {http://hdl.handle.net/1765/31041}
+}
+
+@Article{RePub:31069,
+author =             {Bosch, F.A.J. van den},
+title =              {Forcing the Factory of the Future. Cybernation and Societal Institutions},
+journal =            {Organization Studies},
+year =               {2000},
+volume =             {21},
+number =             {3},
+pages =              {652--658},
+month =              {January},
+url =                {http://hdl.handle.net/1765/31069}
+}
+
+@Article{RePub:6500,
+author =             {Flier, B. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Strategische Vernieuwing in de Top 5 van de Nederlandse Financiële Sector, Special Issue Corporate Restructuring},
+journal =            {Tijdschrift voor bedrijfsadministratie},
+year =               {2000},
+volume =             {104},
+number =             {1235},
+pages =              {324--333},
+month =              {January},
+url =                {http://hdl.handle.net/1765/6500}
+}
+
+@Misc{RePub:11003,
+author =             {Wijk, R.A.J.L. van and Bosch, F.A.J. van den},
+title =              {The emergence and development of internal networks and their impact on knowledge flows: The case of Rabobank Group},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2000},
+pages =              {144--147},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11003}
+}
+
+@Misc{RePub:32077,
+author =             {Wijk, R.A.J.L. van and Bosch, F.A.J. van den},
+title =              {Creating the N-Form Corporation as a Managerial Competence},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {2000},
+pages =              {199--214},
+month =              {January},
+url =                {http://hdl.handle.net/1765/32077}
+}
+
+@Article{RePub:6475,
+author =             {Dijksterhuis, M.S. and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Where Do New Organizational Forms Come From? Management Logics as a Source of Coevolution},
+journal =            {Organization Science},
+year =               {1999},
+volume =             {10},
+number =             {5},
+pages =              {569--582},
+month =              {October},
+url =                {http://dx.doi.org/10.1287/orsc.10.5.569}
+}
+
+@Article{RePub:6474,
+author =             {Bosch, F.A.J. van den and Volberda, H.W. and Boer, M. de},
+title =              {Co-evolution of Firm Absorptive Capacity and Knowledge Environment: Organizational Forms and Combinative Capabilities},
+journal =            {Organization Science},
+year =               {1999},
+volume =             {10},
+number =             {5},
+pages =              {551--568},
+month =              {September},
+url =                {http://dx.doi.org/10.1287/orsc.10.5.551}
+}
+
+@Article{RePub:6473,
+author =             {Boer, M. de and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Managing Organizational Knowledge Integration in the Emerging Multimedia Complex},
+journal =            {Journal of Management Studies},
+year =               {1999},
+pages =              {379--398},
+month =              {May},
+url =                {http://dx.doi.org/10.1111/1467-6486.00141}
+}
+
+@Article{RePub:11009,
+author =             {Baaij, M.G. and Bosch, F.A.J. van den},
+title =              {Naar een evolutionair raamwerk van strategie},
+journal =            {Bedrijfskunde},
+year =               {1999},
+volume =             {71},
+number =             {2},
+pages =              {52--59},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11009}
+}
+
+@Article{RePub:11010,
+author =             {Oomens, M.J.H. and Bosch, F.A.J. van den},
+title =              {Strategic issue management in major European-based companies},
+journal =            {Long Range Planning},
+year =               {1999},
+volume =             {32},
+number =             {1},
+pages =              {49--57},
+month =              {January},
+url =                {http://dx.doi.org/10.1016/S0024-6301(98)00124-1}
+}
+
+@Article{RePub:11011,
+author =             {Wijk, R.A.J.L. van and Bosch, F.A.J. van den},
+title =              {Interne netwerken en intraorganisationele kennisdeling},
+journal =            {Bedrijfskunde},
+year =               {1999},
+volume =             {71},
+number =             {1},
+pages =              {54--60},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11011}
+}
+
+@Article{RePub:11012,
+author =             {Maassen, G.F. and Bosch, F.A.J. van den},
+title =              {On the supposed independence of two-tier boards},
+journal =            {Corporate Governance (Oxford): an international review},
+year =               {1999},
+volume =             {7},
+number =             {1},
+pages =              {31--37},
+month =              {January},
+url =                {http://dx.doi.org/10.1111/1467-8683.00126}
+}
+
+@Article{RePub:6502,
+author =             {Boer, M. de and Bosch, F.A.J. van den and Volberda, H.W.},
+title =              {Kennismanagement in de ICT sector: Organisationele innovatie door traditionele uitgeverijen},
+journal =            {Tijdschrift voor bedrijfsadministratie},
+year =               {1999},
+volume =             {103},
+number =             {1220},
+pages =              {61--67},
+month =              {January},
+url =                {http://hdl.handle.net/1765/6502}
+}
+
+@Article{RePub:11007,
+author =             {Wijk, R.A.J.L. van and Bosch, F.A.J. van den},
+title =              {Transitieprocessen naar de interne netwerk orgnisatie},
+journal =            {Tijdschrift voor bedrijfsadministratie},
+year =               {1999},
+volume =             {103},
+number =             {1220},
+pages =              {55--60},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11007}
+}
+
+@Article{RePub:31042,
+author =             {Baaij, M.G. and Bosch, F.A.J. van den},
+title =              {Is blijvend ondernemingssucces mogelijk? Naar een geïntegreerd evolutionair raamwerk van strategie},
+journal =            {M \& O: tijdschrift voor organisatiekunde en sociaal beleid},
+year =               {1998},
+volume =             {52},
+number =             {4},
+pages =              {28--41},
+month =              {August},
+url =                {http://hdl.handle.net/1765/31042}
+}
+
+@Article{RePub:11015,
+author =             {Bosch, F.A.J. van den and Riel, C.B.M. van},
+title =              {Buffering and bridging as environmental strategies of firms},
+journal =            {Business Strategy and the Environment},
+year =               {1998},
+volume =             {7},
+pages =              {24--31},
+month =              {January},
+url =                {http://dx.doi.org/AID-BSE130\%3E3.0.CO;2-I}
+}
+
+@Article{RePub:11036,
+author =             {Riel, C.B.M. van and Bosch, F.A.J. van den},
+title =              {Increasing effectiveness of managing strategic issues affecting a firm's reputation},
+journal =            {Corporate Reputation Review},
+year =               {1997},
+volume =             {1},
+number =             {1-2},
+pages =              {135--140},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11036}
+}
+
+@Article{RePub:11040,
+author =             {Maassen, G.F. and Bosch, F.A.J. van den},
+title =              {Een internationale vergelijking van corporate governance modellen, is er sprake van convergentie?},
+journal =            {Bedrijfskunde},
+year =               {1997},
+volume =             {69},
+number =             {4},
+pages =              {35--41},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11040}
+}
+
+@Article{RePub:11037,
+author =             {Bosch, F.A.J. van den and Riel, C.B.M. van},
+title =              {Het PER+ project van Shell. Strategische besluitvorming en communicatie},
+journal =            {Tijdschrift voor strategische bedrijfscommunicatie},
+year =               {1997},
+volume =             {3},
+number =             {4},
+pages =              {80--98},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11037}
+}
+
+@Article{RePub:11038,
+author =             {Maljers, F.A. and Baden-Fuller, C.W.F. and Bosch, F.A.J. van den},
+title =              {Vaart houden in het strategisch proces},
+journal =            {Holland Management Review},
+year =               {1997},
+volume =             {52},
+pages =              {7--14},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11038}
+}
+
+@Article{RePub:11042,
+author =             {Bosch, F.A.J. van den and Smits, M.A.},
+title =              {Naar een dynamisch stakeholder management framework},
+journal =            {Holland Management Review},
+year =               {1997},
+pages =              {63--70},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11042}
+}
+
+@Misc{RePub:31710,
+author =             {Bosch, F.A.J. van den},
+title =              {Introduction: perspectives on Porter},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {1997},
+pages =              {1--6},
+month =              {January},
+url =                {http://hdl.handle.net/1765/31710}
+}
+
+@Misc{RePub:31711,
+author =             {Man, A-P. de and Bosch, F.A.J. van den and Elfring, T.},
+title =              {Porter on national and regional competitive advantage},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {1997},
+pages =              {45--60},
+month =              {January},
+url =                {http://hdl.handle.net/1765/31711}
+}
+
+@Misc{RePub:31712,
+author =             {Bosch, F.A.J. van den},
+title =              {Porter's contribution to more general and dynamic strategy frameworks},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {1997},
+pages =              {91--100},
+month =              {January},
+url =                {http://hdl.handle.net/1765/31712}
+}
+
+@Article{RePub:11041,
+author =             {Bosch, F.A.J. van den},
+title =              {Wat is strategie: zoeken naar unieke resources of het scheppen van een unieke value chain configuratie?},
+journal =            {Nijenrode management review},
+year =               {1997},
+pages =              {37--43},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11041}
+}
+
+@Article{RePub:11043,
+author =             {Boone, P.F. and Bosch, F.A.J. van den},
+title =              {Discerning a key characteristic of a European style of management},
+journal =            {International Studies of Management and Organization},
+year =               {1996},
+volume =             {26},
+number =             {3},
+pages =              {109--127},
+month =              {September},
+url =                {http://hdl.handle.net/1765/11043}
+}
+
+@Misc{RePub:31759,
+author =             {Heijden, J.G.M. van der and Bosch, F.A.J. van den and Nunen, J.A.E.E. van and Wagenaar, R.W.},
+title =              {Task Structuring in EDI Partnerships},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {1996},
+pages =              {13--27},
+month =              {June},
+url =                {http://hdl.handle.net/1765/31759}
+}
+
+@Misc{RePub:31713,
+author =             {Bosch, F.A.J. van den and Veerman, C.P. and Lau, J.Y.},
+title =              {Managing the boundaries of firms in the agribusiness: managerial aspects of corporate governance concerning vertical and horizontal integration},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {1996},
+pages =              {603--606},
+month =              {May},
+url =                {http://hdl.handle.net/1765/31713}
+}
+
+@Article{RePub:11045,
+author =             {Maljers, F.A. and Baden-Fuller, C.W.F. and Bosch, F.A.J. van den},
+title =              {Maintaining strategic momentum},
+journal =            {European Management Journal},
+year =               {1996},
+volume =             {14},
+number =             {6},
+pages =              {555--561},
+month =              {January},
+url =                {http://dx.doi.org/10.1016/S0263-2373(96)00052-7}
+}
+
+@Article{RePub:11049,
+author =             {Bosch, F.A.J. van den and Riel, C.B.M. van},
+title =              {Buffering versus bridging strategieën en het management van strategische issues},
+journal =            {Bedrijfskunde},
+year =               {1996},
+volume =             {68},
+number =             {4},
+pages =              {44--50},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11049}
+}
+
+@Misc{RePub:11046,
+author =             {Sivula, P. and Bosch, F.A.J. van den and Elfring, T.},
+title =              {Competence building by incorporating clients into development of a business service firm's knowledge base},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {1996},
+pages =              {121--137},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11046}
+}
+
+@Article{RePub:11047,
+author =             {Bosch, F.A.J. van den},
+title =              {Stakeholder management bij besluitvorming over strategische investeringsprojecten},
+journal =            {Maandblad voor accountancy en bedrijfseconomie : MAB},
+year =               {1996},
+volume =             {70},
+number =             {3},
+pages =              {133--137},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11047}
+}
+
+@Article{RePub:11048,
+author =             {Bosch, F.A.J. van den},
+title =              {Stakeholders en management: een case-studie},
+journal =            {Holland Management Review},
+year =               {1996},
+volume =             {47},
+pages =              {24--31},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11048}
+}
+
+@Article{RePub:31084,
+author =             {Bosch, F.A.J. van den},
+title =              {Stakeholders als partners van managers in de waardecreatie door ondernemingen. De andere belangen dan die van aandeelhouders},
+journal =            {NIVE Management Magazine},
+year =               {1996},
+volume =             {6},
+pages =              {8--12},
+month =              {January},
+url =                {http://hdl.handle.net/1765/31084}
+}
+
+@Misc{RePub:31760,
+author =             {Heijden, J.G.M. van der and Wagenaar, R.W. and Nunen, J.A.E.E. van and Bosch, F.A.J. van den},
+title =              {Redesigning process control mechanisms using EDI: an agency-theoretic perspective},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {1995},
+pages =              {388--397},
+month =              {January},
+url =                {http://hdl.handle.net/1765/31760}
+}
+
+@Article{RePub:11052,
+author =             {Bosch, F.A.J. van den},
+title =              {Over de toegvoegde waarde van management en managers},
+journal =            {Holland Management Review},
+year =               {1995},
+volume =             {45},
+pages =              {9--11},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11052}
+}
+
+@Article{RePub:11054,
+author =             {Bosch, F.A.J. van den and Warmerdam, P.C.T.},
+title =              {Naar een dynamische theorie van strategie, de bijdrage van Porter's diamant-model},
+journal =            {Bedrijfskunde},
+year =               {1995},
+volume =             {67},
+number =             {1},
+pages =              {62--69},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11054}
+}
+
+@Article{RePub:31087,
+author =             {Bosch, F.A.J. van den and Emde, E.J.},
+title =              {Management klem tussen organisatie en omgeving},
+journal =            {NIVE Management Magazine},
+year =               {1995},
+volume =             {5},
+pages =              {23--25},
+month =              {January},
+url =                {http://hdl.handle.net/1765/31087}
+}
+
+@Article{RePub:11053,
+author =             {Bosch, F.A.J. van den and Warmerdam, P.C.T.},
+title =              {Norit NV, 77 jaar in aktieve kool op wereldniveau},
+journal =            {Bedrijfskunde},
+year =               {1994},
+volume =             {66},
+number =             {1},
+pages =              {4--20},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11053}
+}
+
+@Misc{RePub:11056,
+author =             {Bosch, F.A.J. van den},
+title =              {Corporate communication: een strategisch managementperspectief},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {1994},
+pages =              {45--83},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11056}
+}
+
+@Article{RePub:11057,
+author =             {Bosch, F.A.J. van den and Man, A-P. de},
+title =              {Government's impact on the business environment and strategic management},
+journal =            {Journal of General Management},
+year =               {1994},
+volume =             {19},
+number =             {3},
+pages =              {50--59},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11057}
+}
+
+@Article{RePub:11058,
+author =             {Bosch, F.A.J. van den and Zaal, G.A.W. van der},
+title =              {Over de grenzen van organisaties, een analysekader voor onderzoek en management van interorganisatorische principaal-agent relaties},
+journal =            {Bedrijfskunde},
+year =               {1994},
+volume =             {66},
+number =             {1},
+pages =              {57--64},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11058}
+}
+
+@Misc{RePub:31743,
+author =             {Bosch, F.A.J. van den},
+title =              {Laudatio Doctorate Honoris Causa Professor Dr. M.E. Porter},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {1993},
+pages =              {19--21},
+month =              {November},
+url =                {http://hdl.handle.net/1765/31743}
+}
+
+@Misc{RePub:11059,
+author =             {Bosch, F.A.J. van den},
+title =              {Ontwikkelingen in de wetenschappelijke benadering van strategie en omgevingsvraagstukken: History matters!},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {1993},
+pages =              {47--66},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11059}
+}
+
+@Article{RePub:11062,
+author =             {Bosch, F.A.J. van den and Schouten, W.J.F.},
+title =              {Internationaliseringsstrategiën in de Nederlandse Ingenieursbranche:van 'Domestic' naar 'Multidomestic'?},
+journal =            {Bedrijfskunde},
+year =               {1993},
+volume =             {65},
+number =             {2},
+pages =              {173--185},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11062}
+}
+
+@Misc{RePub:11060,
+author =             {Bosch, F.A.J. van den and Elfferich, P.C.},
+title =              {Make, buy or cooperate decisions with respect to research and development in international business networks},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {1993},
+pages =              {191--201},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11060}
+}
+
+@Article{RePub:32078,
+author =             {Aalders, M.J.A.M. and Bosch, F.A.J. van den},
+title =              {Bedrijfsopleidingen in internationaal perspectief},
+journal =            {Tijdschrift voor Arbeidsvraagstukken},
+year =               {1993},
+volume =             {8},
+pages =              {202--212},
+month =              {January},
+url =                {http://hdl.handle.net/1765/32078}
+}
+
+@Article{RePub:11089,
+author =             {Bosch, F.A.J. van den and Prooijen, A.A. van},
+title =              {European Management: an emerging competitive advantage of European nations},
+journal =            {European Management Journal},
+year =               {1992},
+volume =             {10},
+number =             {4},
+pages =              {445--448},
+month =              {December},
+url =                {http://dx.doi.org/10.1016/0263-2373(92)90009-S}
+}
+
+@Article{RePub:11091,
+author =             {Bosch, F.A.J. van den and Prooijen, A.A. van},
+title =              {The competitive advantage of European nations},
+journal =            {European Management Journal},
+year =               {1992},
+volume =             {10},
+number =             {2},
+pages =              {173--177},
+month =              {June},
+url =                {http://dx.doi.org/10.1016/0263-2373(92)90066-D}
+}
+
+@Article{RePub:11088,
+author =             {Bosch, F.A.J. van den and Wit, B. de},
+title =              {Euromanagers kunnen omgaan met de Europese diversiteit},
+journal =            {Holland Management Review},
+year =               {1992},
+volume =             {33},
+pages =              {108--115},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11088}
+}
+
+@Misc{RePub:31744,
+author =             {Bosch, F.A.J. van den and Elfring, T. and Wolf, P. de},
+title =              {The competitive advantage of nations: the importance of the national environment for strategic management in the EC},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {1991},
+pages =              {65--71},
+month =              {November},
+url =                {http://hdl.handle.net/1765/31744}
+}
+
+@Article{RePub:11093,
+author =             {Aalders, M.J.A.M. and Bosch, F.A.J. van den},
+title =              {Industrial training in the Netherlands},
+journal =            {Journal of European Industrial Training: a journal for HRD specialists},
+year =               {1991},
+volume =             {15},
+number =             {6},
+pages =              {19--22},
+month =              {January},
+url =                {http://dx.doi.org/10.1108/EUM0000000000224}
+}
+
+@Article{RePub:11094,
+author =             {Bosch, F.A.J. van den and Petersen, C.},
+title =              {Veldkamp en het onderzoek op het terrein van de sociale zekerheid},
+journal =            {Sociaal maandblad Arbeid},
+year =               {1991},
+volume =             {46},
+pages =              {164--167},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11094}
+}
+
+@Article{RePub:11095,
+author =             {Bosch, F.A.J. van den and Elfferich, P.C.},
+title =              {Naar een verklaring van R\&D organisatievormen},
+journal =            {Maandblad voor accountancy en bedrijfseconomie : MAB},
+year =               {1991},
+volume =             {65},
+pages =              {112--120},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11095}
+}
+
+@Misc{RePub:11097,
+author =             {Bosch, F.A.J. van den},
+title =              {Over de grenzen van organisaties},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {1989},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11097}
+}
+
+@Book{RePub:11098,
+author =             {Bosch, F.A.J. van den and Veerman, C.P.},
+title =              {Een kustuitbreiding tussen Hoek van Holland en Scheveningen},
+publisher =          {Eburon, Delft},
+year =               {1988},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11098}
+}
+
+@Article{RePub:11099,
+author =             {Bosch, F.A.J. van den},
+title =              {De ontwikkeling van de AOW-premiedruk in de toekomst},
+journal =            {Sociaal maandblad Arbeid},
+year =               {1988},
+volume =             {43},
+pages =              {375--382},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11099}
+}
+
+@Misc{RePub:11100,
+author =             {Bosch, F.A.J. van den},
+title =              {De financieringsproblematiek van de AOW in de toekomst},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {1988},
+pages =              {35--47},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11100}
+}
+
+@Article{RePub:11102,
+author =             {Bosch, F.A.J. van den},
+title =              {Informatievoorziening in de sociale zekerheid},
+journal =            {Economisch-Statistische Berichten},
+year =               {1987},
+volume =             {72},
+number =             {3610},
+pages =              {573--576},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11102}
+}
+
+@Misc{RePub:11101,
+author =             {Bosch, F.A.J. van den},
+title =              {Economie, demografie en sociale zekerheid},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {1987},
+pages =              {241--271},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11101}
+}
+
+@Misc{RePub:32079,
+author =             {Bosch, F.A.J. van den and Lawerman, R.},
+title =              {Technologische Innovatie en Vernieuwingen in de Arbeidsorganisatie in Rijnmond},
+institute =          {Rotterdam School of Management, Erasmus University},
+year =               {1986},
+month =              {May},
+url =                {http://hdl.handle.net/1765/32079}
+}
+
+@Misc{RePub:11103,
+author =             {Bosch, F.A.J. van den},
+title =              {Tussen individuele verantwoordelijkheid en overheidsregulering},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {1986},
+pages =              {263--272},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11103}
+}
+
+@Book{RePub:31687,
+author =             {Bosch, F.A.J. van den and Dancot-Devriendt, A.M.},
+title =              {Sociaal en zeker = Social and secure },
+publisher =          {Kluwer Bedrijfswetenschappen, Deventer},
+year =               {1986},
+month =              {January},
+url =                {http://hdl.handle.net/1765/31687}
+}
+
+@Article{RePub:11177,
+author =             {Bosch, F.A.J. van den},
+title =              {Miljoenennota, collectieve sector en sociale zekerheid},
+journal =            {Economisch-Statistische Berichten},
+year =               {1985},
+volume =             {70},
+number =             {3525},
+pages =              {989--992},
+month =              {October},
+url =                {http://hdl.handle.net/1765/11177}
+}
+
+@Article{RePub:11179,
+author =             {Bosch, F.A.J. van den},
+title =              {Naar nieuwe waarborgen voor sociale zekerheid},
+journal =            {Economisch-Statistische Berichten},
+year =               {1985},
+volume =             {70},
+number =             {3523},
+pages =              {916--926},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11179}
+}
+
+@Article{RePub:11178,
+author =             {Bosch, F.A.J. van den and Sas, C.},
+title =              {Sociale zekerheid: onderzoek, beleid en wisselwerking},
+journal =            {Sociaal maandblad Arbeid},
+year =               {1985},
+volume =             {41},
+pages =              {693--704},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11178}
+}
+
+@Article{RePub:11180,
+author =             {Bosch, F.A.J. van den},
+title =              {Naar een samenhangend beeld van de sociale zekerheid},
+journal =            {Sociaal maandblad Arbeid},
+year =               {1985},
+volume =             {40},
+number =             {374},
+pages =              {374--382},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11180}
+}
+
+@Article{RePub:11181,
+author =             {Bosch, F.A.J. van den and Veerman, C.P.},
+title =              {Het plan-Waterman},
+journal =            {Economisch-Statistische Berichten},
+year =               {1984},
+volume =             {69},
+number =             {3471},
+pages =              {818--822},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11181}
+}
+
+@Article{RePub:11182,
+author =             {Bosch, F.A.J. van den and Petersen, C.},
+title =              {Arbeidsmarkt en sociale zekerheid: ontwikkelingen en interacties},
+journal =            {Economisch-Statistische Berichten},
+year =               {1984},
+volume =             {69},
+number =             {3476},
+pages =              {936--942},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11182}
+}
+
+@Article{RePub:11188,
+author =             {Bosch, F.A.J. van den and Petersen, C.},
+title =              {An explanation of the growth of social security disability transfers},
+journal =            {De Economist},
+year =               {1983},
+volume =             {131},
+number =             {1},
+pages =              {65--79},
+month =              {March},
+url =                {http://dx.doi.org/10.1007/BF01676418}
+}
+
+@Article{RePub:11183,
+author =             {Bosch, F.A.J. van den and Eekelen, P.J.C. van and Petersen, C.},
+title =              {De toekomst van de AOW: verdubbeling van de premies of halvering van de uitkeringen?},
+journal =            {Economisch-Statistische Berichten},
+year =               {1983},
+volume =             {68},
+number =             {3431},
+pages =              {1052--1058},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11183}
+}
+
+@PHDThesis{RePub:11184,
+author =             {Bosch, F.A.J. van den and Petersen, C.},
+title =              {Aspecten van ziekte en arbeidsongeschiktheid in het stelsel van sociale zekerheid},
+school =             {Erasmus University Rotterdam},
+address =            {Rotterdam, The Netherlands},
+number =             {11184},
+year =               {1983},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11184}
+}
+
+@Misc{RePub:11185,
+author =             {Bosch, F.A.J. van den and Petersen, C.},
+title =              {Disability as economic phenomenon: a first approach to estimate hidden unemployment among disability beneficiaries},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {1983},
+pages =              {177--185},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11185}
+}
+
+@Article{RePub:11186,
+author =             {Bosch, F.A.J. van den and Veerman, C.P.},
+title =              {Der niederländische Markt für Pfanzkartoffeln},
+journal =            {Agrarwirtschaft. Sonderheft},
+year =               {1983},
+volume =             {32},
+pages =              {81--86},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11186}
+}
+
+@Misc{RePub:11187,
+author =             {Bosch, F.A.J. van den and Petersen, C.},
+title =              {Een economische analyse van de non-participatiegraad: de invloed van arbeidsongeschiktheid},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {1983},
+pages =              {149--164},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11187}
+}
+
+@Article{RePub:11196,
+author =             {Bosch, F.A.J. van den and Petersen, C.},
+title =              {Incidence of disability by sector of industry: An explanation},
+journal =            {International Social Security Review},
+year =               {1982},
+volume =             {35},
+number =             {2},
+pages =              {196--204},
+month =              {April},
+url =                {http://dx.doi.org/10.1111/j.1468-246X.1982.tb00740.x}
+}
+
+@Article{RePub:11193,
+author =             {Bosch, F.A.J. van den and Eije, J.H. von and Petersen, C.},
+title =              {Sociale zekerheid en economische crisis},
+journal =            {Economisch-Statistische Berichten},
+year =               {1982},
+volume =             {67},
+number =             {3381},
+pages =              {1234--1236},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11193}
+}
+
+@Article{RePub:11197,
+author =             {Bosch, F.A.J. van den},
+title =              {Naar een jaargangenbenadering van arbeid},
+journal =            {Economisch-Statistische Berichten},
+year =               {1982},
+volume =             {67},
+number =             {3384},
+pages =              {1300--1305},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11197}
+}
+
+@Article{RePub:11194,
+author =             {Bosch, F.A.J. van den and Petersen, C.},
+title =              {Gezondheidszorg en arbeidsongeschiktheid: een macro-economisch allocatie-vraagstuk? Een eerste benadering van een macro-economisch (her)allocatievraagstuk},
+journal =            {Openbare uitgaven : zin en omgang van de overheidsuitgaven / {[}publikatie van de Stichting Instituut voor Onderzoek van Overheidsuitgaven{]}},
+year =               {1982},
+volume =             {14},
+pages =              {37--54},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11194}
+}
+
+@Article{RePub:11198,
+author =             {Bosch, F.A.J. van den and Petersen, C.},
+title =              {Een economische analyse van de non-participatiegraad: de invloed van arbeidsongeschiktheid},
+journal =            {Maandschrift Economie: tijdschrift voor algemeen economische en sociaaleconomische vraagstukken},
+year =               {1982},
+volume =             {46},
+pages =              {307--321},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11198}
+}
+
+@Article{RePub:11206,
+author =             {Bosch, F.A.J. van den},
+title =              {De dynamiek van de marktwerking: een economische analyse van de pootaardappelmarkt in Nederland},
+journal =            {Economisch-Statistische Berichten},
+year =               {1981},
+volume =             {66},
+number =             {3299},
+pages =              {313--317},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11206}
+}
+
+@Article{RePub:11200,
+author =             {Bosch, F.A.J. van den and Petersen, C.},
+title =              {Een verscholen loonkostensubsidie door de Algemene Arbeidsongeschiktheidswet (AWW)},
+journal =            {Openbare uitgaven : zin en omgang van de overheidsuitgaven / {[}publikatie van de Stichting Instituut voor Onderzoek van Overheidsuitgaven{]}},
+year =               {1981},
+volume =             {13},
+pages =              {147--158},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11200}
+}
+
+@Misc{RePub:11202,
+author =             {Bosch, F.A.J. van den},
+title =              {De omvang van de verborgen werkloosheid in de WAO, nieuwe schattingen voor de periode 1968-1982},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {1981},
+pages =              {77--95},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11202}
+}
+
+@Book{RePub:11203,
+author =             {Bosch, F.A.J. van den and Petersen, C.},
+title =              {Arbeidsongeschiktheid: een multidisciplinaire benadering},
+publisher =          {Kluwer},
+year =               {1981},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11203}
+}
+
+@Misc{RePub:32080,
+author =             {Bosch, F.A.J. van den and Petersen, C.},
+title =              {Arbeidsongeschiktheid als economisch begrip, een theoretische en empirische analyse inzake de ontwikkeling van de arbeidsongeschiktheid op meso-niveau},
+institute =          {Erasmus Research Institute of Management (ERIM)},
+year =               {1981},
+pages =              {97--116},
+month =              {January},
+url =                {http://hdl.handle.net/1765/32080}
+}
+
+@Article{RePub:11209,
+author =             {Bosch, F.A.J. van den and Petersen, C.},
+title =              {Arbeidsongeschiktheid als economisch begrip, een theoretische en empirische analyse inzake de ontwikkeling van de arbeidsongeschiktheid op meso-niveau},
+journal =            {Economisch-Statistische Berichten},
+year =               {1980},
+volume =             {1980},
+pages =              {1344--1350},
+month =              {December},
+url =                {http://hdl.handle.net/1765/11209}
+}
+
+@Article{RePub:11210,
+author =             {Bosch, F.A.J. van den and Petersen, C.},
+title =              {De omvang van de verborgen werkloosheid in de WAO},
+journal =            {Economisch-Statistische Berichten},
+year =               {1980},
+volume =             {1980},
+pages =              {52--58},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11210}
+}
+
+@Article{RePub:11207,
+author =             {Bosch, F.A.J. van den and Veerman, C.P.},
+title =              {The influence of the large scale mechanization of ware potato growing upon supply responsiveness in The Netherlands (1955–1978)},
+journal =            {European Review of Agricultural Economics},
+year =               {1980},
+volume =             {7},
+number =             {1},
+pages =              {41--54},
+month =              {January},
+url =                {http://dx.doi.org/10.1093/erae/7.1.41}
+}
+
+@Article{RePub:11211,
+author =             {Bosch, F.A.J. van den and Veerman, C.P.},
+title =              {Het aanbod van consumptie aardappelen, een economische analyse},
+journal =            {Economisch-Statistische Berichten},
+year =               {1979},
+volume =             {64},
+pages =              {927--932},
+month =              {January},
+url =                {http://hdl.handle.net/1765/11211}
+}

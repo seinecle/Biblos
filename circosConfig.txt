@@ -1,0 +1,60 @@
+<<include etc/colors_fonts_patterns.conf>>
+<<include ideogram.conf>>>
+<<include ticks.conf>>
+<image>
+<<include etc/image.conf>>
+</image>
+chromosomes_units           = 100
+chromosomes_display_default = yes
+karyotype = data/nodes.txt
+<links>
+<link>
+show         = yes
+thickness    = 20
+file         = data/orange.txt
+color        = orange
+record_limit = 5000
+ribbon = no
+</link>
+<link>
+show         = yes
+thickness    = 20
+file         = data/red.txt
+color        = red
+record_limit = 5000
+ribbon = no
+</link>
+<link>
+show         = yes
+thickness    = 20
+file         = data/purple.txt
+color        = purple
+record_limit = 5000
+ribbon = no
+</link>
+<link>
+show         = yes
+thickness    = 20
+file         = data/blue.txt
+color        = blue
+record_limit = 5000
+ribbon = no
+</link>
+<link>
+show         = yes
+thickness    = 20
+file         = data/green.txt
+color        = green
+record_limit = 5000
+ribbon = no
+</link>
+<link>
+show         = yes
+thickness    = 20
+file         = data/yellow.txt
+color        = yellow
+record_limit = 5000
+ribbon = no
+</link>
+</links>
+<<include etc/housekeeping.conf>>
