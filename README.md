@@ -13,3 +13,7 @@ These utilities generate a circos.conf file, a karyotype and a \<links\> file.
 Features:
 - each author is given one of 7 colors.
 - possibility to give a range of year as a parameter (only the bibliographical references comprised in these years will be parsed)
+
+
+Example of output:
+http://clementlevallois.net/circos/circos.svg
