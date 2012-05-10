@@ -8,7 +8,7 @@ At the moment these utilities focus on a special case:
 - the bibTex file comprises the references from a single author
 - the utilities create a circos map of all the co-authors of this single author.
  
-These utilities generate a circos.conf file, a karyotype and a <links> file.
+These utilities generate a circos.conf file, a karyotype and a \<links\> file.
 
 Features:
 - each author is given one of 7 colors.
