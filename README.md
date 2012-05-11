@@ -16,5 +16,5 @@ Features:
 
 
 Example of output:
-http://clementlevallois.net/circos/vdb/
+http://clementlevallois.net/circos/vdb/<br>
 http://clementlevallois.net/circos/circos.svg
