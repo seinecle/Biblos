@@ -15,6 +15,6 @@ Features:
 - possibility to give a range of year as a parameter (only the bibliographical references comprised in these years will be parsed)
 
 
-Example of output:
+Example of output:<br>
 http://clementlevallois.net/circos/vdb/<br>
 http://clementlevallois.net/circos/circos.svg
