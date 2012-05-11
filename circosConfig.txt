@@ -1,6 +1,7 @@
 <<include etc/colors_fonts_patterns.conf>>
 <<include ideogram.conf>>>
 <<include ticks.conf>>
+file_delim = 	
 <image>
 <<include etc/image.conf>>
 </image>
