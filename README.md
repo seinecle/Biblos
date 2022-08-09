@@ -1,3 +1,5 @@
+[This repository is archived. For any question, get in touch at https://clementlevallois.net]
+
 Biblos
 ======
 
